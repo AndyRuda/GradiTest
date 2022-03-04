@@ -1,0 +1,6 @@
+{
+    "componentChunkName": "component---src-pages-product-title-tsx",
+    "path": "/product/[...title]/",
+    "result": {"pageContext":{}},
+    "staticQueryHashes": [],
+    "matchPath": "/product/*title"}

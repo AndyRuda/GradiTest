@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkandy_ruda_gradi_web_front_test=self.webpackChunkandy_ruda_gradi_web_front_test||[]).push([[218],{938:function(n,t,e){e.r(t);var r=e(7294);t.default=function(){return r.useEffect((function(){window.location.pathname="/product/free-trainer-3-mmw.js"}),[]),null}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-2ac31616e5d0975fec33.js.map
