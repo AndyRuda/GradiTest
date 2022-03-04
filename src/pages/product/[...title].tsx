@@ -62,11 +62,10 @@ const IndexPage = ({ params: { title } }: any) => {
       .then(({ data }) => {
         setProduct(data);
         setProductVariant(data.variants[0]);
-        console.log(data);
       })
       .catch((err) => {
         // QUEUE ERROR ALERT - TODO
-        console.log(err);
+        message.error(`Error Loading, refresh page`);
       });
   }, []);
 
