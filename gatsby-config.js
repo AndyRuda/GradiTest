@@ -1,9 +1,6 @@
 /** @type {import('gatsby').GatsbyConfig} */
 module.exports = {
-  siteMetadata: {
-      title: ``,
-    siteUrl: `https://www.yourdomain.tld`
-  },
+  pathPrefix: "/GradiTest",
   plugins: ["gatsby-plugin-antd","gatsby-plugin-react-helmet", {
     resolve: 'gatsby-plugin-manifest',
     options: {
