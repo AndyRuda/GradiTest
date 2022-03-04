@@ -4,7 +4,7 @@ module.exports = {
       title: ``,
     siteUrl: `https://www.yourdomain.tld`
   },
-  plugins: ["gatsby-plugin-emotion", "gatsby-plugin-image", "gatsby-plugin-react-helmet", {
+  plugins: ["gatsby-plugin-antd","gatsby-plugin-react-helmet", {
     resolve: 'gatsby-plugin-manifest',
     options: {
       "icon": "src/images/icon.png"
